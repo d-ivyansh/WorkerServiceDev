@@ -1,7 +1,4 @@
 
-//string connectionString = "Server=tcp:div-sqlserver-dev.database.windows.net,1433;Initial Catalog=div-sql-server-database;Persist Security Info=False;User ID=sqladmin;Password=12345We~;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
-
-
 using Microsoft.Data.SqlClient;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
